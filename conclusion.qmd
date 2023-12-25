@@ -1,0 +1,15 @@
+---
+title: "Conclusion"
+---
+
+Overall, our project titled, "Exploring Digital Equity Through Cell Tower Data," conducted a comprehensive analysis of global, national, and state-level cellular landscapes to uncover observations into the digital divide. The project focused on understanding disparities in access to information and communication technology (ICT) and telecommunications infrastructure. The analysis can be categorized into three main parts: Global Cell Tower Insights, A Close Look Into America's Cellular Landscape, and Rural vs Urban Cellular Connectivity.
+
+We ended up providing a worldwide overview of cell tower distribution, revealing concentrations in developed regions and disparities in less economically developed areas. The analysis emphasized the correlation between cell tower technology and a country's developmental status, showcasing technology's role in economic advancement. Lastly, the subsequent sections focused on America's cellular landscape, highlighting uneven tower distribution and the dominance of major companies. We also addressed the rural-urban digital divide using Pennsylvania and Brazil as case studies, emphasizing the need for comprehensive connectivity and infrastructure to ensure societal inclusivity.
+
+In conclusion, our project successfully explored digital equity through cell tower data at multiple levels. The analysis not only provided a global understanding of technology distribution but also examined into the complexity of cellular landscapes in the United States and the challenges faced by rural areas. The project's use of geospatial data science and analysis showcased the power of data science in uncovering patterns, correlations, and disparities related to cellular infrastructure. Ultimately, the findings contribute valuable insights to the ongoing conversation about bridging the digital divide and ensuring equitable access to technology on a global scale.
+::: 
+
+:::
+
+
+

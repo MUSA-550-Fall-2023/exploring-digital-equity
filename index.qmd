@@ -1,34 +1,14 @@
 ---
-title: "MUSA 550 Final Project Template"
-subtitle: "An example website demonstrating the power of Quarto for sharing analyses on the web"
+title: "Exploring Digital Equity Through Cell Tower Data"
+subtitle: "Analysis by Stephanie Cheng, Jarred Randall, Alec Jacobs"
 ---
 
-## Welcome!
+## Introduction
 
-We can create beautiful websites that describe complex technical analyses in Python using [Quarto](https://quarto.org) 
-and deploy them online using [GitHub Pages](https://pages.github.com/). This combination of tools is a really powerful way 
-to create and share your work. This website is a demo that is meant to be used to create your own Quarto website for the 
-final project in MUSA 550. 
+As the world continually modernizes, the "digital divide" - a term describing disparity in access to technology - persists, placing certain groups at a distinct disadvantage. In particular, the recent global pandemic shed light on the inequality of digital access worldwide. Due to a substantial reliance on the internet for communication by a significant portion of the global population, individuals without access experienced even greater social and mental burdens during the pandemic. As a result, our team sought out to understand the varied digital equity landscape at the international, federal, and state levels through geospatial data analysis. In our project, we followed a set of guiding questions:
 
-Quarto is a relatively new tool, but is becoming popular quickly. It's a successor 
-to the Rmarkdown ecosystem that combines functionality into a single tool and also extends its computation power to other
-languages. Most importantly for us, Quarto supports executing Python code, allowing us to convert Jupyter notebooks to HTML and share them online.  
+- What international metrics may inform digital equity in developed vs developing countries?
+- Is there equitable access of ICT technology across the United States?
+- How does the digital divide persist in rural vs urban areas at various scales?
 
-::: {.callout-important}
-This template site, including the layout it uses, is just a suggested place to start! For your final project, you're welcome (and encouraged) to 
-make as many changes as you like to best fit your project.
-:::
-
-## Find out more
-
-The code for this repository is hosted on our course's GitHub page: [https://github.com/MUSA-550-Fall-2023/quarto-website-template](https://github.com/MUSA-550-Fall-2023/quarto-website-template).
-
-We covered the basics of getting started with Quarto and GitHub Pages in week 9. Take a look at
-[the slides for lecture 9A](https://musa-550-fall-2023.github.io/content/week-9/lecture-9A.html) to find out more.
-
-
-
-
-
-
- 
+A large part of the conversation about resolving the digital divide focuses on Information and Communications Technology (ICT) as well as telecommunications availability. As a result, we selected our main data source - a cell tower location database provided by [OpenCellID](https://opencellid.com). Managed by [Unwired Labs](https://unwiredlabs.com), this collaborative initiative aggregates data from registered contributors. Devices utilizing wireless networks associated with cell towers collect unique location area information, primarily sourced from smartphones through apps like OpenCellID or OpenCellID Client. Information is also collected with commercial tracking devices and corporate wholesale data donation. The data is then collected/transferred to the OpenCellID API database, available for free access.

@@ -1,31 +1,27 @@
 ---
-title: "About me"
+title: "About Us"
 ---
 
 <!-- Use a grid -->
 ::: {.grid}
 
 <!-- Left column has a width of 4/12 and shows a picture of me -->
-::: {.g-col-4}
-![](images/nickhand-profile.jpg){width=3in}
+::: {.g-col-3}
+![](images/stephanie.jpeg){width=3in}
+:::
+
+::: {.g-col-3}
+![](images/jarred.jpeg){width=3in}
+:::
+
+::: {.g-col-3}
+![](images/alec.jpeg){width=3in}
 :::
 
 <!-- Text gets a column with width 8/12 -->
-::: {.g-col-8}
+::: {.g-col-10}
 
-On this about page, you might want to add more information about yourself, 
-the project, or course. Any helpful context could go here!
-
-My name is Nick Hand, the instructor for the course. You can find more 
-information about me on my [personal website](https://www.nickhand.dev/).
-
-This site is an example site showing how to use Quarto for 
-the final project for [MUSA 550](https://musa-550-fall-2023.github.io/),
-during fall 2023. 
-
-Adipisicing proident minim non non dolor quis. Pariatur in ipsum aliquip magna. Qui ad aliqua nulla excepteur dolor nostrud quis nisi. Occaecat proident eiusmod in cupidatat. Elit qui laboris sit aliquip proident dolore. Officia commodo commodo in eiusmod aliqua sint cupidatat consectetur aliqua sint reprehenderit.
-
-Occaecat incididunt esse et elit adipisicing sit est cupidatat consequat. Incididunt exercitation amet dolor non sit anim veniam veniam sint velit. Labore irure reprehenderit ut esse. Minim quis commodo nisi voluptate.
+Hi! We're Stephanie, Jarred, and Alec--three graduate students of the Weitzman School of Design at the University of Pennsylvania, studying City Planning and Urban Spatial Analytics. This website and urban data analysis is our final project for the [MUSA550 Geospatial Data Science in Python](musa-550-fall-2023.github.io) class with our amazing instructor [Nick Hand](https://www.nickhand.dev). Click below the analysis tab at the left to look at our project findings.
 
 ::: 
 
